@@ -70,7 +70,7 @@ event HudHealthDyingPulseStop
 	
 	Animate	PlayerStatusHealthValueScan 		Alpha		"0"			Linear 0.0 0.6
 	Animate	PlayerStatusHealthValueScan2 		Alpha		"0"			Linear 0.0 0.6
-	
+	Animate	PlayerStatusHealthValue 			Alpha		"255"			Linear 0.0 0.2
 	Animate	PlayerHealthCrossBG				BgColor		"28 33 39 130"			Linear 0.0 0.0
 
 }
